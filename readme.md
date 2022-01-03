@@ -4,6 +4,9 @@
 ![GitHub Release Date](https://img.shields.io/github/release-date/valeryan/valet-wsl.svg)
 ![GitHub](https://img.shields.io/github/license/valeryan/valet-wsl.svg)
 
+## Maintenance Status
+A while ago I moved on from php and now work in dotnet. I do currently have the bandwidth to work on this project. If you want to take over this project or just be an additionly maintainer and help solve any of the issues that are present, please contact me.
+
 ## Introduction
 
 Valet for WSL provides a way to quickly setup a development environment for Laravel using Valet in Windows Subsystem for Linux.
